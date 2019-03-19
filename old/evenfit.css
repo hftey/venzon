@@ -1,0 +1,126 @@
+.toptitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #515151;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #003e58;
+}
+.copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #515151;
+}
+
+.copyjust {
+	font-family: 11pt;
+	text-align: justify;
+	color: #515151;
+}
+
+.tabletop {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #EFEFEF;
+}
+
+
+
+.copy_odd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #515151;
+	background-color:#E7E7E7;
+}
+
+.copy_even {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #515151;
+	background-color:#EFEFEF;
+
+
+}
+
+
+
+.topbut {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.topbut:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #0099CC;
+	text-decoration: none;
+}
+.copysmall {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #515151;
+}
+.sidelink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #343434;
+	text-decoration: none;
+}
+
+.mainlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bolder;
+	color: #003e58;
+	text-decoration: none;
+}
+
+.sidelink:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #121212;
+	text-decoration: none;
+}
+.titlebig {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	color: #FFFFFF;
+}
+
+
+input {
+	border: solid 1px gray;
+	font-size: 11px;
+	background-color: silver;
+	
+}
+
+textarea {
+	border: solid 1px gray;
+	font-size: 11px;
+	background-color: silver;
+	
+}
+
+submit {
+	border: solid 1px gray;
+	font-size: 11px;
+	background-color: silver;
+	
+}
+
+file {
+	border: solid 1px gray;
+	font-size: 11px;
+	background-color: silver;
+	
+}
+
